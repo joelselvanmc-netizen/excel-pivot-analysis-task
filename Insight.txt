@@ -1,0 +1,19 @@
+Insight 1: Category Performance
+
+The Technology category generates the highest total sales among all categories. This indicates strong customer demand for tech-related products and shows that Technology is the primary revenue-driving segment for the business.
+
+Insight 2: Regional Sales Contribution
+
+The West region contributes the largest share of total sales compared to other regions. This suggests that the West region has a stronger market presence, higher customer base, or better-performing sales channels.
+
+Insight 3: Underperforming Region
+
+The Central region shows comparatively lower sales and profit margins. This indicates a potential underperformance and highlights an opportunity for management to improve pricing strategies, marketing efforts, or product availability in this region.
+
+Insight 4: Profit Margin Analysis
+
+Although Furniture generates moderate sales, it has a lower average profit margin compared to Technology and Office Supplies. This suggests higher costs or discounting in Furniture products, which impacts overall profitability.
+
+Insight 5: Segment-wise Performance
+
+The Corporate segment performs consistently across most regions, especially in terms of profit margin. This indicates stable business customers and highlights Corporate clients as a reliable revenue source.
